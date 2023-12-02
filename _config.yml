@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Gang Liu"
   avatar           : "profile.png"
-  bio              : "Infinite progress\n\
-  Postgraduate of Shenzhen University\n\
-  Shenzhen Institute for Quantum Science and Engineering, SUSTech"
+  bio              : "Infinite progress"
   location         : "Shenzhen, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
