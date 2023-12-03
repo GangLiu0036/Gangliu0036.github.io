@@ -19,7 +19,8 @@ Work experience
 
 Skills
 ======
-
+* js, html, css, python, matlab, c++
+* basic algorithm in classic field and quantum field
 
 Publications
 ======
